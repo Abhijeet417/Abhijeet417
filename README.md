@@ -1,16 +1,19 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there .......</h1>
 
 ###
 
-<p align="center">I'm Abhijeet Singh ---> Crafting the Web. 💻✨</p>
+<h2 align="center">
+  I'm 
+  <img src="https://img.shields.io/badge/Abhijeet-%237c3aed.svg?style=for-the-badge&labelColor=2d2d2d&color=7c3aed" height="32"/>
+  -> A 
+  <img src="https://img.shields.io/badge/%3CWeb/%3E-%237c3aed.svg?style=for-the-badge&labelColor=2d2d2d&color=7c3aed" height="32"/> Developer 👨‍🦱
+</h2>
 
 ###
 
-<h2 align="center">About me</h2>
+<p align="center">About me</p>
 
-###
-
-<p align="center">💻 Web Enthusiast <br>🚀 Problem Solver<br>🌟 Lifelong Learner</p>
+<p align="center"> Web Enthusiast <br> Problem Solver<br> Lifelong Learner</p>
 
 ###
 
@@ -33,12 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
