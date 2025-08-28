@@ -1,13 +1,10 @@
-<h1 align="center">Hey there .......</h1>
+<h1 align="center">Hey there .....</h1>
 
 <h1 align="center">
-  I'm 
-  <img src="https://img.shields.io/badge/Abhijeet-%237c3aed.svg?style=for-the-badge&labelColor=2d2d2d&color=7c3aed" height="32"/>
-  -> A 
-  <img src="https://img.shields.io/badge/%3CWeb/%3E-%237c3aed.svg?style=for-the-badge&labelColor=2d2d2d&color=7c3aed" height="32"/> Developer 👨‍🦱
+  I'm Abhijeet
 </h1>
 
-<p align="center"> Software Enthusiast <br> Problem Solver <br> Lifelong Learner</p>
+<p align="center"> Software Enthusiast , Problem Solver ,  Lifelong Learner</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
