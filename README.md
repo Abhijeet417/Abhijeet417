@@ -1,10 +1,10 @@
-<h1 align="center">Hey there .....</h1>
+<h1 align="center">Hey there ../h1>
 
 <h1 align="center">
   I'm Abhijeet
 </h1>
 
-<p align="center"> Software Enthusiast , Problem Solver ,  Lifelong Learner</p>
+<p align="center"> Software Engineer, Problem Solver,  Lifelong Learner</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
