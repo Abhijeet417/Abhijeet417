@@ -4,7 +4,7 @@
   I'm Abhijeet
 </h1>
 
-<p align="center"> Software Engineer, Problem Solver,  Lifelong Learner</p>
+<p align="center"> I code using :) </p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
